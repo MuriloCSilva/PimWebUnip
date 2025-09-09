@@ -61,17 +61,17 @@ clear
 [Tabela Cronograma](#) 
 
 ## Equipe
-- Daniel fagundes – Dev Frontend  – [GitHub](https://github.com/DANFAGUNDES0) | [LinkedIn](https://www.linkedin.com/in/daniel-fagundes-916ba4246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Daniel fagundes – Dev Frontend (web)  – [GitHub](https://github.com/DANFAGUNDES0) | [LinkedIn](https://www.linkedin.com/in/daniel-fagundes-916ba4246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- Murilo Camara – Dev Frontend – [GitHub](https://github.com/MuriloCSilva) | [LinkedIn](https://www.linkedin.com/in/murilocamara?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Murilo Camara – Dev Frontend (web) – [GitHub](https://github.com/MuriloCSilva) | [LinkedIn](https://www.linkedin.com/in/murilocamara?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- Thor Morciani
+- Thor Morciani - Dev Backend
 
-- Caio Henrique
+- Caio Henrique - Dev Frontend (desktop)
 
-- João Pedro
+- João Pedro - Dev Frontend (desktop)
 
-- Joel Pereira
+- Joel Pereira - Dev Frontend (desktop)
 
 
 
