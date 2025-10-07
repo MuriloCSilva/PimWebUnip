@@ -58,7 +58,7 @@ clear
 
 ## Documentação
 
-[Tabela Cronograma](#) 
+[Link](#) 
 
 ## Equipe
 - Daniel fagundes – Dev Frontend (web)  – [GitHub](https://github.com/DANFAGUNDES0) | [LinkedIn](https://www.linkedin.com/in/daniel-fagundes-916ba4246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
