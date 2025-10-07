@@ -15,20 +15,7 @@ AIssist é um aplicativo de gestão de chamados que utiliza Inteligência Artifi
 
 
 ## 📊 Tabela de Sprints
-| Sprint | Período        | Documentação |
-|--------|----------------|--------------|
-| 1      | 18/08 - 24/08  | [Tela Home](https://youtu.be/p1ZCfkPH6vc?si=l5mo9ty-ay9HPPcU) 
-| 2      | 25/08 - 31/08  | [Tela de Login](https://youtu.be/OK7liYvUiqg?si=ZWfbSZCNUoAwCuJ0)
-| 3      | 01/09 - 07/09  | [Tela de Cadastro]()
-| 4      | 08/09 - 14/09  | [Tela de Tickets]()
-| 5      | 15/09 - 21/09  | [Tela de Usuários]()
-| 6      | 22/09 - 28/09  | [Tela de Relatórios]()
-| 7      | 29/09 - 05/10  | [Relatório PDF]()
-| 8      | 06/10 - 12/10  | [Tela de Causas Raízes]()
-| 9      | 13/10 - 19/10  | [Teste Unitários]()
-| 10     | 20/10 - 26/10  | [Testes em Geral]()
-| 11     | 27/10 - 02/11  | []()
-| 12     | 03/11 - 09/11  | []()
+[Ver Tabela](https://github.com/MuriloCSilva/PimWebUnip/blob/main/Tabela%20das%20Sprints)
 
 ## Tecnologias Utilizadas
 - Angular
