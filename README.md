@@ -14,8 +14,17 @@ AIssist é um aplicativo de gestão de chamados que utiliza Inteligência Artifi
 [REQUISITOS](https://github.com/DANFAGUNDES0/PimWeb/blob/main/Requisitos%3Etxt )
 
 ## Cronograma do Projeto
-
-[Tabela Cronograma](https://github.com/MuriloCSilva/PimWebUnip/blob/main/Cronograma%20Projeto) 
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 18/08 - 24/08  | [Sprint 1 Docs](./docs/sprints/sprint%201.md) | 
+| 🔖 **SPRINT 2** | 25/08 - 31/08  | [Sprint 2 Docs](./docs/sprints/sprint%202.md) | 
+| 🔖 **SPRINT 3** | 01/09 - 07/09  | [Sprint 3 Docs](./docs/sprints/sprint%203.md) | 
+| 🔖 **SPRINT 4** | 08/09 - 14/09  | [Sprint 4 Docs](./docs/sprints/sprint%204.md) | 
+| 🔖 **SPRINT 5** | 15/09 - 21/09  | [Sprint 5 Docs](./docs/sprints/sprint%205.md) | 
+| 🔖 **SPRINT 6** | 22/09 - 28/09  | [Sprint 6 Docs](./docs/sprints/sprint%206.md) | 
+| 🔖 **SPRINT 7** | 29/09 - 05/10  | [Sprint 7 Docs](./docs/sprints/sprint%207.md) | 
+| 🔖 **SPRINT 8** | 06/10 - 12/10  | [Sprint 8 Docs](./docs/sprints/sprint%208.md) | 
+| 🔖 **SPRINT 9** | 13/10 - 19/10  | [Sprint 9 Docs](./docs/sprints/sprint%209.md) | 
 
 
 ## 📊 Tabela de Sprints
