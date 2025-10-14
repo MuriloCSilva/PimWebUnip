@@ -59,7 +59,7 @@ AIssist é um aplicativo de gestão de chamados que utiliza Inteligência Artifi
 
 ---
 ## Diagramas UML <a id="diagramas"></a>
-[Diagramas](CasoDeUsoPIM.asta)
+[Diagramas](./docs/CasoDeUsoPIM.asta)
 
 
 ## Integrantes <a id="integrantes"></a>
