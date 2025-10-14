@@ -10,8 +10,8 @@ Desenvolvimento de um Sistema Integrado para Gestão de Chamados e Suporte Técn
 ## Desafio do Projeto
 AIssist é um aplicativo de gestão de chamados que utiliza Inteligência Artificial para tornar o suporte mais ágil, inteligente e eficiente. A plataforma permite gerenciar usuários com diferentes perfis e permissões, sugere soluções rápidas por meio de IA, possibilita que múltiplos chamados sejam atendidos ao mesmo tempo e envia notificações automáticas para manter equipe e requerentes sempre atualizados. Além disso, oferece relatórios detalhados de históricos, garante segurança dos dados e conta com uma interface moderna, responsiva e compatível com os principais navegadores. Desenvolvido com foco em boas práticas.
 
-## Backlog de Produto
-[REQUISITOS](https://github.com/DANFAGUNDES0/PimWeb/blob/main/Requisitos%3Etxt )
+## 📋 Backlog do Projeto <a id="backlog"></a>
+[Backlog](./docs/UserStories.txt)
 
 ## Cronograma do Projeto
 | Sprint          |    Período    | Documentação                                     |
@@ -27,51 +27,49 @@ AIssist é um aplicativo de gestão de chamados que utiliza Inteligência Artifi
 | 🔖 **SPRINT 9** | 13/10 - 19/10  | [Sprint 9 Docs](./docs/sprints/sprint%209.md) | 
 
 
-## 📊 Tabela de Sprints
-[Ver Tabela](https://github.com/MuriloCSilva/PimWebUnip/blob/main/Tabela%20das%20Sprints)
+##  Tecnologias <a id="tecnologias"></a>
 
-## Tecnologias Utilizadas
-- Angular
-- Node.js
-- SCSS
-- HTML
-- Git bash
-## Estrutura do Projeto
-```bash
-📂 src
- ┣ 📂 components
- ┣ 📂 services
- ┗ app.module.ts
-```
+<h4 align="center">
+ <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+ <a href="https://www.angular.dev/"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></a>
+ <a href="https://www.dotnet.microsoft.com/pt-br/languages/csharp/"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a> 
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</h4>
 
-## Como Executar o Projeto
-```bash
-# Instalar dependências
-npm install
-
-# Rodar em ambiente de desenvolvimento
-ng serve
-
-# Limpar Terminal
-clear
-```
 
 ## Documentação
 
 [Link](#) 
 
-## Equipe
-- Daniel fagundes – Dev Frontend (web)  – [GitHub](https://github.com/DANFAGUNDES0) | [LinkedIn](https://www.linkedin.com/in/daniel-fagundes-916ba4246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
-- Murilo Camara – Dev Frontend (web) – [GitHub](https://github.com/MuriloCSilva) | [LinkedIn](https://www.linkedin.com/in/murilocamara?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+* Diagrama de **Rotas**
+* Banco de Dados **Vetorizado** do Cliente
 
-- Thor Morciani - Dev Backend
+## 🏆 DoD - Definition of Done <a id="dod"></a>
 
-- Caio Henrique - Dev Frontend (desktop)
+* Manual de Usuário
+* Manual da Aplicação
+* Código completo
 
-- João Pedro - Dev Frontend (desktop)
+---
+## Diagramas UML <a id="diagramas"></a>
+[Diagramas](CasoDeUsoPIM.asta)
 
-- Joel Pereira - Dev Frontend (desktop)
+
+## Integrantes <a id="integrantes"></a>
+
+- [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
+- [Caio Henrique Barbosa Santos - G976690](https://github.com/CaioHennrique)
+- [Daniel Fagundes da Mota Filho - G97BJA0](https://github.com/DANFAGUNDES0)
+- [Murilo Câmara da Silva – G9843G0](https://github.com/MuriloCSilva)
+- [Joel Rodrigues Pereira - R0507H0](https://github.com/JoelRP00)
+- [João Pedro Costa Vieira - G956HJ7](https://github.com/JoaoPcvv)
 
 
 
