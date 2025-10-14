@@ -1,4 +1,8 @@
 ## AIssist
+<p align="center">
+    <img src="docs/img/logo.png" alt="logo da AIssist" width="200">
+    <h2 align="center"> AIssist</h2>
+</p>
 
 ## Descrição do Projeto
 Desenvolvimento de um Sistema Integrado para Gestão de Chamados e Suporte Técnico com Apoio de IA
